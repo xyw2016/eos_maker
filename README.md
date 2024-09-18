@@ -1,6 +1,6 @@
 # hic-eventgen
 
-Stripped down version of the hic-eventgen code, used only to generate an EOS
+Stripped down version of the [hic-eventgen code](https://github.com/Duke-QCD/hic-eventgen), used only to generate an EOS
 
 # Installation
 ```
