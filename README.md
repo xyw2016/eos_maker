@@ -2,6 +2,9 @@
 
 Stripped down version of the [hic-eventgen code](https://github.com/Duke-QCD/hic-eventgen), used only to generate an EOS
 
+# SMASH particle list vs UrQMD particle list
+There are separate Git branches for the SMASH particle list and the UrQMD particle list. Please select the one you want.
+
 # Installation
 ```
 git clone --recursive --recurse-submodules --branch urqmd https://github.com/j-f-paquet/eos_maker.git eos_maker_urqmd
